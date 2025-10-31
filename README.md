@@ -2,7 +2,9 @@
 A deep learning project built with Keras to classify weather images into four distinct categories: Cloudy, Rain, Shine, and Sunrise.
 
 https://img.shields.io/badge/Python-3.7%252B-blue
+
 https://img.shields.io/badge/Keras-%2523D00000.svg?style=flat&logo=Keras&logoColor=white
+
 https://img.shields.io/badge/TensorFlow-%2523FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white
 
 📋 Project Overview
